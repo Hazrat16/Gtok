@@ -1,0 +1,29 @@
+.top-section{
+    height:500px;
+    background-image: linear-gradient( rgb(212, 0, 255),rgb(0, 47, 255));
+    padding-top:100px;
+}
+.share-card{
+    background-color:white;
+    width:40%;
+    margin:auto;
+    padding-top:50px;
+    padding-bottom:20px;
+}
+.heading{
+    border-radius: 5px;
+    background-color:lightgray;
+}
+.topLink a{
+    text-decoration: none;
+    color:white;
+    margin-left: 20px;
+}
+.topLink{
+    text-align: center;
+    padding-top:200px;
+}
+.positivity-card{
+    align-items: center;
+    justify-content: center;
+}
